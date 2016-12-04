@@ -1,0 +1,13 @@
+# Ignore everything
+*
+.*
+
+# But not these files...
+!/.gitignore
+!/.config/
+!/.scripts/
+!/.bash_aliases
+!/.bash_functions
+!/.bashrc
+!/.directory
+!/.exports
